@@ -22,9 +22,14 @@
   </ul>
   
   <script>
-     // write your code here 
-     // ......
-  </script>
+     <script language="javascript">
+
+         function myPorc()
+
+         {
+         alert("id");
+        </script>
+      }
   </body>
   </html>
 ```
